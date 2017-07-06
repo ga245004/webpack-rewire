@@ -4,7 +4,8 @@
   "description": "",
   "main": "rewire.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "save": "git push origin master",
+    "update": "git pull origin master"
   },
   "repository": {
     "type": "git",
